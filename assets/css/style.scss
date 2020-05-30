@@ -18,15 +18,12 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
 }
 
-body {
+h1 {
     counter-reset: section;
 }
 
-h1 {
-    counter-increment: section;
-}
-
 h2 {
+    counter-increment: section;
     counter-reset: para;
 }
 
