@@ -14,11 +14,11 @@ forms the basis of the concept of science, a concept which is *used* for the
 gathering of knowledge. Then the life cycle starts again: through the build-up
 of a great many concepts, the knowledge collected by science is *used* to create
 technology, which is then used in everyday action. Thus, the philosophy of the
-Object can be "useful": it comes under the jurisdiction of "use" through its
+Object can be "useful": it comes under the jurisdiction of use through its
 life-cycle twice.
 
 Thus, even the most abstract concepts can eventually become *used* for action.
-So you see, for a philosophy (primarily - its constituent concepts**, usefulness
+So you see, for a philosophy (primarily - its constituent concepts), usefulness
 is made possible by whether anything can be piled atop it in order to aid or
 hinder, guide or direct action.
 
@@ -39,19 +39,20 @@ their life-cycle - and both of these circumstances are an instance of
 *investment in the future,* not "doing" for its own sake. There is no reason to
 do something that is of totally no use. It is a waste of time and energy.
 
-Thus, if something can be proven to be of no use direct, there is no reason to
-do it besides the ancillary - this is philosophy-as-leisure, which has its own
-place - or because we hope that it might have some use that we do not or cannot
-see (through unknown unknowns). This last is a vain hope in most cases,
-especially, if as I have said before, the uselessness is known or proven. I do
-not intend to take this metaphysician's route.
+Thus, if something can be proven to be incapable of falling under the
+jurisdiction of use, there is no reason to wrestle with it besides the
+ancillary - this is philosophy-as-leisure, which has its own place - or because
+we hope that it might have some use that we do not or cannot see (through
+unknown unknowns). This last is a vain hope in most cases, especially if, as I
+have said before, the useless incapability is known or proven. I do not intend
+to take this metaphysician's route.
 
 I will take a different route: I will construct the starting-place of my
-philosophy, in the consciousness of the individual, with an eye towards reality
-and epistemology and ethics, so that it will be guaranteed to come to some sort
-of action-guiding *use* - so that it is possible that it can be "useful," even
-if it turns out not to be - since I have a focus on life and action, and do not
-find metaphysics leisurely.
+philosophy in the consciousness of the individual, with an eye towards reality
+and epistemology and ethics, so that it will be guaranteed to guide action in
+some way - so that it is possible that it can be "useful," even if it turns out
+not to be - since I have a focus on life and action, and do not find metaphysics
+leisurely.
 
 Said another way: I intend to do philosophy so that my results must come under
 the jurisdiction of use at some point in the life-cycle of its constituent
