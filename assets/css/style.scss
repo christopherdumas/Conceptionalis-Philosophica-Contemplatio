@@ -18,8 +18,20 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
 }
 
+body {
+    counter-reset: section;
+}
+
+h1 {
+    counter-increment: section;
+}
+
+h2 {
+    counter-reset: para;
+}
+
 p:before {
     counter-increment: para;
-    content: "§" + counter(para);
+    content: "§" counter(section) "." counter(para);
     margin-right: 7px;
 }
