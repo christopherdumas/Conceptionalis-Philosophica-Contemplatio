@@ -1,4 +1,4 @@
-## Statement of Purpose
+## Statement of Use
 
 A philosophy is incapable of being "useful" unless it must come under the
 jurisdiction of use at some point in the life-cycle of its constituent concepts
