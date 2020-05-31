@@ -32,8 +32,3 @@ p:before {
     content: "§" counter(section) "." counter(para);
     margin-right: 7px;
 }
-
-p:has(> a)::before {
-    content: "";
-    display: none;
-}
