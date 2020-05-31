@@ -13,3 +13,5 @@ it "the world."
 
 Whether it is truly real, it is an external fact which we must act in accordance
 with, so its philosophical reality is immaterial - literally.
+
+<div>[Previous Section](README.md)</div>
