@@ -33,6 +33,7 @@ p:before {
     margin-right: 7px;
 }
 
-p:has(> a):before {
+p:has(> a)::before {
+    content: "";
     display: none;
 }
