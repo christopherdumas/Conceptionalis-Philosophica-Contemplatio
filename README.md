@@ -57,3 +57,5 @@ leisurely.
 Said another way: I intend to do philosophy so that my results must come under
 the jurisdiction of use at some point in the life-cycle of its constituent
 concepts or the concepts piled atop it.
+
+[Next Section](section1.md)
