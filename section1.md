@@ -197,7 +197,56 @@ that is, it can be found why it is." This is not obvious to me, nor can it be
 justified in my framework of the Object.
 
 Anything within this Universe, which has physical reality as we recognize it,
-must follow these laws. Thus, reality is rational.
+must follow these laws. Thus, reality is rational: I can be sure that any
+object, so long as it has a physical nature, will follow these rules, no matter
+what it is or whether it is known or unknown - and no matter where it is
+located, since the actions of the object found come from details in itself
+abstracted out to the level of the Object, not details of its surrounding
+envelope.
+
+As an example: I can be assured that if I were to land on another planet, I
+would find that the planet is not also an egg. It would follow the law of
+Identity. I would find that it either exists or does not exist. It would follow
+the law of non-contradiction and the law of the excluded middle. I do not need
+to worry, as Lovecraft does, that at some remote region of space, all laws break
+down - for, space itself is an entity under the heading of the concept Object,
+and anything that I would find there that was physical, which I could interact
+with and perceive, would fall under the heading of Object as well.
+
+Most spiritual objects would also follow these three laws, meaning that it would
+be possible for them to fall under the concept of Object, however, there are
+some concepts that do not, such as the Christian Trinity. Thus, I will restrict
+my notes here to simply physical things, which are all that we have direct sense
+of in reality anyway.
+
+Of course, this notion does not entirely rule out some strange otherworldly
+metaphysical plane, which since it would not have physical reality in common
+with the other objects which we used as the empirical basis for our derivation
+of the Object, would not have to follow logical rules. But it would not be
+located in spacetime, but would necessarily be located in some orthogonal
+universe, and I would raise the question of whether we could interact with or
+perceive of objects that Object does not apply to.
+
+We can - as I said before - conceive of such objects, but only at an extremely
+abstract level, without true understanding like what it would require to truly
+conceptualize what it would be like to interact with such a thing; the Christian
+Trinity, for instance, is "understandable** at a highly abstract level, as being
+three person that are in actuality one person, but no Christian truly
+comprehends what this means: they simply string words together, and comprehend
+aspects, not the whole concept.
+
+**Nota bene:** the laws of identity and non-contradiction are fundamental for
+the operation of thought and communication at all, even though they are not
+totally ontologically certain, and as I have said can partially be conceived
+otherwise. This is why they are "axioms" which cannot be denied without first
+being assumed in the denial: in fact, even the thoughts which attempt to
+perceive if these laws are otherwise for specific objects use these laws for the
+understanding and description of these objects. I am not at this moment totally
+certain how this frames the notion of the Object concept, except to posit that
+perhaps the reason these ideas are so fundamental to our thought is because they
+are so fundamental to reality (as we have seen, our thought is connected to
+reality) and concepts *qua* concepts (as we have seen). Maybe these are so baked
+into our minds because of how baked into our reality they are.
 
 ### A Priori concepts
 
