@@ -1,6 +1,11 @@
-## Section 2
+---
+layout: post
+title:  "Section 2 - Epistemology"
+date:   2020-05-31 14:25:08 -0700
+categories: section
+---
 
-### Why correct knowledge is important
+## Why correct knowledge is important
 
 Rational knowledge is knowledge ordered by the laws of the Object concept - i.e.
 ordered by correct hierarchies of concepts and correct relations between them
@@ -46,7 +51,7 @@ far-reaching causal models don't only make action-outcomes better known
 beforehand and thence allow better action, but because this expansion opens new
 and unpredictable avenues of knowledge themselves.
 
-### stable & unstable equilibria
+## stable & unstable equilibria
 
 Reality - the structure of it, by virtue of the essence/concept of the Object -
 is, as we have discussed previously, governed by the laws of logic. If A is
@@ -102,7 +107,7 @@ they will run into an impenetrable wall and be dashed on the rocks of logic.
 Thus, knowing - and knowingly acting - in tune with reality minimizes risks and
 maximizes the long-run effectiveness of actions.
 
-### Ways of knowing properly
+## Ways of knowing properly
 
 To go about gathering knowledge "properly" means that the concepts and relations
 derived from the process of gathering must not consistently or randomly wrong
@@ -154,5 +159,3 @@ All hope is not lost, hwoever: there is another method of knowing, called
 have no quarrel with the common term.
 
 **UNFINISHED**
-
-[Prev Section](section1.md)
