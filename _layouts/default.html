@@ -12,7 +12,7 @@
       <main class="page-content" aria-label="Content">
           <h1> {{ site.title }} </h1>
           <div class="wrapper">
-              {{ content }}
+              {% include anchor_headings.html html=content %}
           </div>
       </main>
 	</body>
