@@ -173,5 +173,124 @@ However, there is a small difference between ways of knowing which produces the
 appearance of one or the other type of knowledge, *a priori* or *a posteriori*,
 based on what the observations that are begun with are.
 
-## "a priori" knowledge
+## Conceptual reasoning
 
+The difference in the method of obtaining knowledge between what is called *a
+priori* and *a posteriori* that gives them the appearance of being different
+kinds of knowledge entirely is that the starting points that seemingly *a
+priori* knowledge uses as its foundation are of a more abstract, axiomatic or
+self-evident nature.
+
+Abstract knowledge takes the form of knowledge based on highly reified
+concepts - like the Object and things not a little less abstract, such as the
+relation-concept of Cause-And-Effect - that, while inducted from the experience
+of the consciousness of the thinker from his envelope, give the appearance of
+springing fully-formed from his forehead, like Athena from the had of Zeus,
+because of how remote they are from any specific experience: how they are
+experienced everywhere and so seemingly nowhere, and how they are understood so
+early on that it seems that they never began to understand.
+
+Axiomatic knowledge on the other hand is knowledge that, to deny, requires its
+observation or acceptance, either as part of the argument (contradiction) or as
+part of the *action* that one takes to make that argument (performative
+contradiction) - this latter because the ultimate arbiter of the correctness of
+the concepts in a mind is its more direct interaction with reality, action, so
+that if one cannot act in light of a concept at all, even if one tries, it
+cannot be fit to connect directly with reality itself.
+
+Self-evident knowledge is not itself technically "self-evident" in the sense of
+being understood by everyone. However, it is understood by all who think
+correctly - and this, as we have seen, implies rationally - about their
+experience. Self-evident concepts are phenomenologically immanent, and obvious
+to all those who care to examine their general experiences. The Object's
+properties might themselves be considered to be "self-evident," for instance,
+although I would be careful not to take this too far. Self-evident knowledge is
+often also knowledge that is axiomatic, since any experience that is immanent to
+all phenomonological experience or action is both axiomatic, since it cannot be
+denied without first using it - since denial is experience and action to a
+consciousness - and self-evident, since it is omnipresent.
+
+Henceforth, therefore, I will call seemingly *a priori* knowledge "conceptual
+reasoning," since it primarily uses more abstract or immanent concepts as its
+basis instead of specific details, and since active, far-afield observation of
+the consciousness' envelope is not required.
+
+## Observational reasoning
+
+*A posteriori* knowledge relies on the same mechanism as explained above, the
+observation of the envelope of consciousness in some way, and then the deduction
+or induction from it of relation-concepts and concepts. However, this form of
+knowledge relies on slightly different methods, since it does not take as its
+basis and subject self-evident, axiomatic, or abstract knowledge, but instead
+specific and detailed knowledge about facts and objects in the envelope. The
+difference between this mode of acquiring knowledge and the mode of conceptual
+reasoning, in focus in more external facts and more detailed and specific
+knowledge, requires changes in methodology, since the understanding of details
+mediated more by the specific instance of senses is more uncertain.
+
+The methodology changes match the recognition of the fact that: the primary
+function of knowledge is use, and as such must provide guidance for action.
+Guidance for action in the form of knowledge is must useful as a causal model. A
+causal model establishes what effect follows what cause, and under what
+conditions. Therefore, to test a causal model, one must examine the *prediction*
+that a causal model makes, and then instantiate the conditions and causes that
+should produce that prediction, and note the differences - if any - between the
+new conditions that result, and those predicted by the causal model. This
+describes the function of forming hypotheses in observational reasoning
+providing ways of testing the causal model in precise and predictable ways.
+
+One important aspect of this method of testing is that the conditions must be
+controlled as well as the causes. This is because conditions are causes
+themselves and effect the outcome, and conditions are, due to their broadness,
+usually not as easily accounted for in a causal model as direct causes;
+conditions are also generally the changeable and incidental aspect of the
+relation-concept the observer seeks to establish. Thus, control of variables is
+important.
+
+In addition, methodology must change to recognize the fact that, while the
+senses are less easily fooled in cases of knowledge such as knowledge of the
+Object, which mediate all action and are thus broadly attested to in every
+action besides and ignoring technical detail, they are more likely to be fooled
+in cases of specific detail. Thus, repeatability of testing is important, since
+repeatability allows hidden variables not accounted for in the held-conditions
+of a test to be factored out, and allow specific fooled senses to be ruled out
+as well.
+
+Moreover, since each human consciousness has its own understanding and
+perception, one must be careful about bias, since bias is not an inherent
+property in the universe - there is an objective truth - which one can see by
+the fact that people who do not acknowledge objective truth, who stick to
+"their" truth, fail to act properly if their actions come into contact with
+reality as such. To factor out bias, other people with other biases must examine
+the testing of these causal models, to ensure that they consistently seem to
+predict and verify the same conclusions even when observed through different
+lenses.
+
+**Nota bene:** note how this relies much more heavily on knowledge as a causal
+model for action than conceptual reasoning does. This is because action is a
+much more direct method of interacting with reality, so is easier to deal with
+when the senses might be fooled in myriad ways. Conceptual reasoning does not
+have this limitation as much, since it can provide conceptual models for other
+things. This is why there is such a divide between philosophy, which is
+primarily conceptual reasoning, and science, which is observational reasoning.
+This is why, also, science focuses on things that are "falsifiable" -
+disprovable by action: things that cannot be disproved by action are not things
+that can ever adversely impact action. This also explains why science produces
+such direct and useful results on the whole: it focuses on action, and therefore
+on use.
+
+## Observational reasoning outside a causal model
+
+Knowledge outside a causal model is concerned with such things as aethetics,
+epistemology, ethics, metaphysics, and the other fields of philosophy, which
+seek to explain the underpinnings of why such things as knowledge matter, or
+what the correct way to gain knowledge is, without which one cannot justify
+observational reasoning, but which do not make specific predictions about the
+causes and effects of actions except through their outgrowth *in* observational
+reasoning.
+
+One cannot therefore use observational reasoning to assess its ancestors in the
+conceptual hierarchy: it is justified by them, firstly, but also because they do
+not make predictions except the predictions themselves. They do not establish
+what kind of B follows a certain A. One cannot make and test a hypothesis about
+whether it is possible to know if one is a brain-in-a-vat.
