@@ -5,42 +5,81 @@ date:   2020-05-31 14:25:08 -0700
 categories: section
 ---
 
-## Why correct knowledge is important
+## Rational & Correct Knowledge
 
 Rational knowledge is knowledge ordered by the laws of the Object concept - i.e.
-ordered by correct hierarchies of concepts and correct relations between them
-through the laws of logic.
+ordered by logical hierarchies of concepts and logical relation-concepts between
+them through the laws of logic.
 
-**Nota bene:** To this basis can be added further rules as the relation-concepts
-applicable to these constituent concepts in play require, but it is necessary to
-always keep in mind that these other laws - specific to the situation, usually
-empirically observed apart from the Object itself - are not as binding or as
-fundamental or as certain. If any specific relation-concept does not follow the
-laws of logic, then it is inconsistent with its own more abstract essence, and
-must be discarded.
+**Nota bene:** a "logical" hierarchy is one in which there are no loops, or
+higher-up concepts that add incorrect details, etc - the hierarchy of concepts
+must be formed strictly. An example: the fallacy of composition performs a
+conceptual step up the ladder of abstraction by grouping several assembled
+concepts of objects together in a single entity. However, it adds details from
+its constituent concepts which are not present in a proper common grouping
+concept. For example: a "car" is a grouping-concept relating the concepts of
+"wheel," "tire," "body,** and so on. To say that a tire is rubber, therefore the
+entire car is rubber, is to commit the fallacy of composition and construct a
+hierarchy that is not logical, because it adds a detail to the grouping concept
+which all the other concepts that form it do not have, meaning that the grouping
+concept is not strictly a detail-elision, but partly a detail addition.
 
-Why must inconsistent knowledge be discarded? Because inconsistent knowledge is
-not knowledge at all. It does not indicate which prong of the contradiction
-should be selected, and it cannot provide an underlying causal model of both
-aspects at once. Inconsistent knowledge must be reconciled, or it is
-undecidable.
+Correct knowledge is knowledge which, as well as being rational, rightly
+integrates relations and details from the consciousness' envelope about the
+concepts which one desires to describe with that body of knowledge.
 
-We need knowledge with a proper causal model because only a causal model can
-present the mechanism of action and reaction an understanding of which is
-necessary to guide action: if one does not know what results - or even, at an
-extreme, is possible to result - from actions, how can one choose between them
+**Nota bene:** there is a strange "loop" affect to these two concepts of
+knowledge, due to the fact that, technically, the laws of logic that rational
+knowledge must observe are observed by the consciousness in its envelope in the
+form of the Object, so that abstractly speaking rational knowledge is just
+knowledge which "rightly integrates the relations and details" of the Object as
+it is observed in "from the consciousness' envelope." Yet, for any other
+knowledge to be correct, since all other concepts "descend" from the Object,
+that other knowledge must observe the rules of the Object first before it can
+continue to be correct in its own specific way.
+
+## Inconsistent knowledge
+
+The primary and first rule that all actions must follow is the law of
+non-contradiction, and so, since correct knowledge is judged primarily by
+action, knowledge must also follow this rule. Inconsistent knowledge must be
+tossed aside.
+
+Inconsistent knowledge is not knowledge at all. It does not indicate which prong
+of the contradiction should be selected, and it cannot provide an underlying
+causal model of both aspects at once. Inconsistent knowledge must be reconciled,
+or it is undecidable.
+
+## proper causal models
+
+A causal model explains what conditions or actions produce other conditions -
+thus, the action "pushing this ball" produces the condition "this ball is
+rolling." Causal models take the form of relation-concepts between objects,
+where which relation-concepts that can be applied - and what the specific
+manifestation of the relation-concept is - is determined by, as usual, the
+details of the concepts being related. This is like the notion of an concept's
+(or object's) actuality, its current details, and its potentiality, the
+relation-concepts which that actuality allow to be applied.
+
+We need correct knowledge with a correct causal model because only a causal
+model can present the mechanism of action and reaction an understanding of which
+is necessary to guide action: if one does not know what results - or even, at an
+extreme, what *possible* results - actions have, how can one choose between them
 to achieve results? How can one act with any logic other than randomly?
 
 One might say "I will act randomly in order to *find out* what these actions
 do." This is what babies do, and in a way what scientists do as well - we will
 discuss that subject later - but that is random action in the pursuit of
-*forming* a proper causal model of reality. One cannot go without one forever,
-willfully ignoring the causes and effects one sets in motion, and be said to be
-acting other than randomly and thus without hope of causing anything desired to
-come about.
+*forming* a correct causal model. I.e. it is admitting that ultimately a correct
+causal model is important. One cannot go without one forever, willfully ignoring
+the causes and effects one sets in motion, and be said to be acting other than
+randomly and thus without hope of causing anything desired to come about. One
+cannot, in fact, survive at all that way.
 
-Thus rational knowledge is required for action in pursuit of any goal - i.e. for
+Thus correct knowledge is required for action in pursuit of any goal - i.e. for
 living - in the long run.
+
+## expanding knowledge
 
 Furthermore it is universally a proper and beneficial endeavor to expand and
 test a causal model and rational knowledge: to test, because one must know where
@@ -107,55 +146,32 @@ they will run into an impenetrable wall and be dashed on the rocks of logic.
 Thus, knowing - and knowingly acting - in tune with reality minimizes risks and
 maximizes the long-run effectiveness of actions.
 
-## Ways of knowing properly
+## The only way to "know"
 
-To go about gathering knowledge "properly" means that the concepts and relations
-derived from the process of gathering must not consistently or randomly wrong
-with no hope of correction ,nor are then not guaranteed to have some connection
-to reality, nor are they in contradiction with the laws of the Object. Any
-method of gathering that falls afoul of these rules is improper.
+A "proper" method of gathering knowledge is one that allows the apprehension of
+concepts (relation and otherwise) concerning "objects" in the envelope of
+consciousness in a way that yields either correct knowledge in broad strokes, or
+yields concepts in a way that allows for the later correction of errors, or is
+at least wrong in consistent ways that can be adjusted for. To go about
+gathering knowledge "properly" means that the concepts and relations derived
+from the process of inspecting the envelope of consciousness, the "outside
+world," must not consistently or randomly be wrong with no hope of correction,
+and are further guaranteed to have some connection to reality, and are not in
+contradiction with the laws of the Object. Any method of gathering that falls
+afoul of these rules is improper.
 
-There are primarily two methods of knowing properly which can be employed by
-those desiring possibly-useful knowledge, capable of falling under the
-jurisdiction of use.
+As I have said before, there commonly are considered to be two distinct methods
+of knowing: *a priori* and *a posteriori*; however, as I mentioned in the
+previous section, the phenomonological and epistemological methods by which I
+derive my system preclude this distinction. Even seemingly *a priori* logic is
+in fact *after*, or *post* experience. All knowledge is then brought under the
+same heading: seemingly "pseudoscientific" - i.e. rational - knowledge, and
+vaunted "empirical" or "scientific" knowledge. Both take observations about
+reality and deduce from them according to the rules of the Object.
 
-The first way, which is often called *a priori* reasoning - of both the analytic
-and synthetic types - is that which I will henceforth refer to as conceptual
-reasoning, since I deny that any truly *a priori* reasoning would have any
-connection to reality besides accidentally, and in fact, I don't think such a
-thing as *a priori* reasoning actually exists except in the minds of the insane.
-We have discussed why.
+However, there is a small difference between ways of knowing which produces the
+appearance of one or the other type of knowledge, *a priori* or *a posteriori*,
+based on what the observations that are begun with are.
 
-Conceptual reasoning, in my understanding, is reasoning from simple,
-well-understood, widely known empirical experiences or facts; conceptual
-reasoning makes use of our understanding of the concepts around us to construct
-axioms as starting points - axioms which, if correctly constructed, should be so
-completely evident in the essence of phenomonologically immanent concepts that
-to deny them would require acknowledging them, pushing back the discussion to
-the laws of the Object.
+## "a priori" knowledge
 
-An example of such a statement is Descrates' "cogito ergo sum." It rests on such
-a phenomonologically immanent fact - a fact which every facit of related
-experience confirms - that to deny it requires the acknowledgment of it for the
-very act; this leaves the denier in a state of cognitive dissonance and
-contradiction so that to continue to fight would require them to deny the laws
-of logic.
-
-This method of knowing is very certain, rooted as it is in few or no
-contingencies, and relying only on the reasoning acumen of the philosopher, but
-by the same token it is very limited: the range of things that can be axioms and
-used as solid foundations is vanishingly small, especially for things that exist
-outside the human consciousness, in the world - can you think of any
-self-evident axioms that are about non-consciousness- or non-human-centered
-things? I for one cannot - and furthermore the complexity of thought and the
-strictures of logic required in the reasoning from these axioms severly limits
-even what can be done going purely from those paltry few axioms.
-
-Conceptual reasoning can be given "fuel" in the form of empirical knowledge,
-however, and this expands its grasp.
-
-All hope is not lost, hwoever: there is another method of knowing, called
-"science.** In my rburic it might be called observational reasoning, but here I
-have no quarrel with the common term.
-
-**UNFINISHED**
