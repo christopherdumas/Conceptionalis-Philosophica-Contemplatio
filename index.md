@@ -2,7 +2,9 @@
 layout: home
 ---
 
-## Statement of Use - About This Philosophy
+# Section 0 - Introduction
+
+## Statement of Use
 
 A philosophy is incapable of being "useful" unless it must come under the
 jurisdiction of use at some point in the life-cycle of its constituent concepts
@@ -50,6 +52,8 @@ we hope that it might have some use that we do not or cannot see (through
 unknown unknowns). This last is a vain hope in most cases, especially if, as I
 have said before, the useless incapability is known or proven. I do not intend
 to take this metaphysician's route.
+
+## Statement of Method
 
 I will take a different route: I will construct the starting-place of my
 philosophy in the consciousness of the individual, with an eye towards reality

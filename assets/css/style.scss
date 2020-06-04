@@ -1,7 +1,7 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Literata:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 * {
     font-family: 'Literata', serif;
@@ -43,8 +43,19 @@ h2 {
     counter-reset: para;
 }
 
-p:before {
+a {
+    color: #aaa;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #aaa;
+    text-decoration: underline;
+}
+
+div > p:before {
     counter-increment: para;
     content: "§" counter(section) "." counter(para);
     margin-right: 7px;
+    color: #aaa;
 }
