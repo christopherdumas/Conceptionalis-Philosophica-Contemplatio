@@ -243,7 +243,7 @@ achieving something. Happiness is a state of euphoria.
 Fulfillment is enduring, because it is a holistic state. Happiness is fleeting,
 because it is an emotion - it becomes the new *expected baseline*, so that to
 take away what once made you happy and now is part of your baseline only makes
-you less happy then before that thing became part of your baseline.
+you less happy then before that thing became part of your baseline.[^1]
 
 Fulfillment is a state of continual action: one cannot make use of your
 faculties, achieve, *live* without action. Happiness is a state of being which
@@ -321,13 +321,13 @@ fulfillment.
 
 What capabilities must be exercised through action for the fulfillment of the
 human essence *qua* human? Three, each drawing its unique manifestation from
-that wellspring of the human, consciousness: the social faculty, the rational
+that Promethean wellspring, consciousness: the social faculty, the rational
 faculty, and the productive faculty. Each of these is made possible by the
 rational consciousness of humans, in its human form: the social, in voluntary
 cooperation mediated by rational discussion and common goals, instead of filial
 allegiances and fear; the rational, in the understanding of the world and the
-interaction and description of it properly; and the productive, in problem
-solving and creation of new concepts only made possible by the first two.
+interaction and description of it properly; and the creative, in problem solving
+and creation of new concepts only made possible by the first two.
 
 Sociability: our rationality allows us to achieve a much more organized, broad,
 and intense form of social life: while other species are indeed social, no other
@@ -342,7 +342,7 @@ it truly furthers its own values, and benefits itself from such a cooperation
 with its fellows. True mutually beneficial, consensual cooperation is the realm
 of only humans.
 
-Labor: humans are also the only creatures, thanks to our sociability and
+Creativity: humans are also the only creatures, thanks to our sociability and
 conscious rationality, that are capable of working towards a value - modifying
 the things in the natural world to an express purpose, long in advance and at a
 highly complex level. Other animals might do this to a degree, like the
@@ -372,3 +372,5 @@ can act to achieve our fulfillment, using our talents *qua* humans as well as
 our unique talents, without undue suffering which prevents the appreciation of
 such fulfillment, and allows occasional happiness - happiness itself is not an
 anti-value, in moderation and within the proper framework.
+
+[^1]: [Hedonic Treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill)
