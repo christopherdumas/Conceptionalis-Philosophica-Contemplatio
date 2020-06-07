@@ -297,7 +297,11 @@ already in the realm of the purely human faculties of consciousness and
 conscious control. I said "almost" above for a reason! The presence of a mind in
 the equation changes the balance of power - there is a new tactician in play,
 one who commands vast armies of his own: suddenly the instincts have a rival:
-this is no longer a unipolar game.
+this is no longer a unipolar game. The human mind is the only thing capable of
+editing and directing the animal instincts such that they do not undo
+themselves, or undo the very life of the human, or undermine the future -
+delayed gratification is paramount for the improvement over time of the
+situation of each individual, but especially of society as a whole.
 
 Thus even to serve the animal instincts themselves, we must care about the human
 faculties. But there is another reason entire: the consciousness which is the
@@ -317,10 +321,21 @@ in action and selected values, it is freed and given fulfillment. One must *use*
 the faculty that we have been given, to feed the thing that feels and values its
 fulfillment.
 
+We must fulfill our essence as humans instead of like other animals primarily,
+besides the considerations described above, because we *are not like other
+animals.* We are partly of primate nature, and mammal nature, and so on - but
+our nature is a strict super-set of those other natures, such that we can never
+fully fulfill, or satisfy, ourselves by only appealing to a *portion* of our
+entire natures. This holds true for respecting our animal natures as well: we
+can never truly be fulfilled by paying attention only to our "higher" (human)
+natures either, but as I say above there is little danger of this, considering
+how raw and immediate the demands of our animal natures are, vis-à-vis our human
+natures.
+
 ## fulfillment as action
 
 What capabilities must be exercised through action for the fulfillment of the
-human essence *qua* human? Three, each drawing its unique manifestation from
+human essence *qua*** human? Three, each drawing its unique manifestation from
 that Promethean wellspring, consciousness: the social faculty, the rational
 faculty, and the productive faculty. Each of these is made possible by the
 rational consciousness of humans, in its human form: the social, in voluntary
@@ -329,37 +344,57 @@ allegiances and fear; the rational, in the understanding of the world and the
 interaction and description of it properly; and the creative, in problem solving
 and creation of new concepts only made possible by the first two.
 
-Sociability: our rationality allows us to achieve a much more organized, broad,
-and intense form of social life: while other species are indeed social, no other
-species is capable of rational communication to plan ahead and achieve goals to
-the degree that humans are. Other animals might communicate or even plan on the
-basis of instinct, but our unique human abilities let us form huge and complex
-hierarchies and cooperate at a high level. Furthermore, no other animal is
-capable of voluntarily cooperating, not through familial ties or fear or
-superficial likability, but through the true communication of common goals and
-common benefit - no other animal can ascertain, as part of its interaction, if
-it truly furthers its own values, and benefits itself from such a cooperation
-with its fellows. True mutually beneficial, consensual cooperation is the realm
-of only humans.
+The first and most important uniquely human capability, which must be made use
+of to allow true fulfillment on the part of a consciousness whose capability to
+experience things is *mediated* by its mind, and whose primary differential from
+other living entities is also its mind, is the exercise of rationality. This
+does not require that everyone at all times be a logician, mathematician, or
+philosopher, but it does require that everyone *think* about their situation
+instead of always walking through life in a haze of undefined forms. We must
+think and understand ourselves and what surrounds us in order to be able to live
+properly. And if one wishes to go more extreme, to become a user-of-reason as a
+career, as a life style, that is one route to fulfillment, because it is a
+faculty and component of human fulfillment. There is no other animal capable of
+using reason on a conscious and conceptual level, as humans are: all the
+"rational" behavior of animals, so far as we can tell, are mediated and directed
+by instincts which are developmentally *shaped* by physical reality which,
+because it is rational due to its inheritance from the Object, enforces rational
+action on the part of all actors within it if they are to be successful.
 
-Creativity: humans are also the only creatures, thanks to our sociability and
-conscious rationality, that are capable of working towards a value - modifying
-the things in the natural world to an express purpose, long in advance and at a
-highly complex level. Other animals might do this to a degree, like the
-nest-making of birds or the tool-making of some apes, but the birds are acting
-purely on instinct, and the apes act on direct empirical trial-and-error, not on
-a true rational understanding (this is why they could not hope to achieve the
-level of foresight and complexity of human achievements). The production of
-things for the use of others, and the abstract understanding of principles
-inherent to such production, and application of such principles to intellect and
-cooperation, are purely human traits.
+The second component of this is what I called production above, which might also
+be called creation. This relies on rationality, of course - all other components
+of human fulfillment do - but it is different in this sense: it requires direct
+interaction and conscious conceptual pattern-seeking concerning external reality
+beyond the often pre-conscious understanding of the laws of the Object which
+represents the field of rationality; it requires the examination of the rules,
+laws, and patterns of external reality and their application to unique tools or
+objects or pieces of art - we will discuss art later - in order to improve
+material conditions of well-being and happiness. Although some animals often
+construct tools, these tools are always based on specific understandings of
+specific situations, and lessons learned through them are not usually expanded to
+include other situations; when they are, it is only a single type of tool,
+because animals are not capable of using rationality to draw general patterns
+and lessons and construct complex and fitted tools. Thus, the rational
+assessment and adaptation through production and creation of the environment to
+human needs is unique to us - uniqueness made possible by our method of
+interacting with reality, but also importantly by rationality.
 
-Rationality: the human species is the only one that seems capable of conscious,
-explicitly logical or rational thought, and conceptual abstractions.
-Furthermore, since humans do not have instincts nor an automatic knowledge of
-how to do things, rationality is our fundamental means of survival; alone in the
-envelope of consciousness a human must rely only on his own mind to understand
-the world around him, the patterns in it, and what he must do.
+The third component of this fulfillment through faculty/capability available to
+humans is perhaps the most important - I am not sure myself: social interaction.
+Once again, we are not unique in our proclivity and capability to *be* social.
+However, we are unique in the sense that we are the only beings capable of
+communicating rationally. Thus, other instances of social cooperation in the
+animal world are merely the product of intimidation or instinct - humans alone
+are capable of explaining to each other the ideas of mutual goals and mutual
+benefit, to incentivize cooperation outside of mere genetically preprogrammed
+structures or fear for life. Notice also, in this same vein, that all the social
+organizations of the animals besides us humans are constructed along unified
+lines throughout that species: those setups are *genetically precoded and
+predisposed within them*, just as their goals are. We humans are not the only
+beings capable of voluntary cooperation to mutual goals, ideals, and benefit,
+and capable of communicating rationally with each other about these things, we
+are the only living beings capable of reorganizing ourselves and our hierarchies
+according to situation, need, and goals.
 
 ## value once more
 
