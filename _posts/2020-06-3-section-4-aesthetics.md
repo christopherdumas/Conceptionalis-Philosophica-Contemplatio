@@ -67,7 +67,7 @@ the narrative text, how much it contradicts, and how tenuous or "long" the chain
 of reasoning and redefinition of words and use of symbols pulled from physical
 objects in the narrative (and all the other hermeneutical tools) becomes.
 
-The more tenuous an interpretation, the less "valid" it is. Because it is less
+The more tenuous an interpretation, the less "valid" it is, because it is less
 of a reasonable and accurate understanding of what the narrative text actually
 illustrates.
 
@@ -223,3 +223,75 @@ and causal models from these wide-ranging perspectives to percolate into the
 consciousness of the wider society, so that different understandings and
 interpretations and actions based on these ideas can result in a feeding of the
 prescient machine, but also can enact change in the present.
+
+## the power of symbol
+
+A symbol is a non-real object contained within an artistic artifact which
+represents not just a thing like itself, but also another concept which shares
+some relation-concepts, details or structural features that allow the observer
+of that art to pick out what that symbol represents in their own conceptual
+framework.
+
+Within the context of narrative - narrative which can exist even within something
+static and singular, such as a painting - symbols allow a story to be about more
+than just what is on the surface. Thus, the story can be about specific and
+detailed hypothetical non-real objects, but it can also be about
+non-hypothetical real objects and their relationships. This duality is vital in
+lending art its power, in that it allows it to reach beyond philosophical
+capability by portraying a complex and interwoven milieu and then embedding
+conceptual relations within that, allowing the complexity of a simulated
+hypothetical reality to imbue the message about non-hypothetical reality with
+increased complexity.
+
+Symbols are most often created consciously, as the creator of artistic narrative
+breathes life into their conceptual creation, but in other stories - such as
+myths and legends - it is unclear exactly how much symbology is consciously
+created and how much is an outgrowth of the non-conscious: the human mind is a
+pattern-seeker, observing and generating concepts with wild abandon, some of
+them correct, some incorrect. Much of this is done consciously, especially as
+the edifice of conceptual hierarchy is built up and conscious thought has more
+tools to work with; much, however, is done non-consciously as well - through the
+direct understanding of observation, interaction, trial, and error, in such a
+way that these concepts exist before lasting memories themselves can be formed:
+before, in fact, the conscious personality could possibly have accumulated, so
+that they seem primordial and fundamental. These non-conscious concepts, better
+called archetypes, represent important things learned and understood before the
+conscious mind had the explicit toolkit to wrestle with what it was observing
+and dealing with in its envelope.
+
+These archetypes, pre-conscious or non-conscious concepts, can be communicated
+through the use of myth and story directly to the pattern-seeker in such a way
+that to get explicit conscious symbology (and from there, concepts) out of them
+actually requires *more conscious effort* than directly understanding them. In
+fact, part of the toolkit necessary to wrestle with these ideas, and especially
+to *pick out** a symbology from stories, is accumulated itself over the course
+and development of philosophy and psychology; before those things had
+accumulated this understanding would not have been so possible, which was what
+necessitated the creation of these stories in the first place - this is why all
+myth is not philosophy explicitly.
+
+Archetypes communicated through stories, because they are most easily understood
+pre- or non- consciously, can sometimes be more efficient in communication, and
+since they were formed not through explicit understanding of concepts but through
+implicit generation of patterns through action/interaction, they are often
+ingrained more deeply in how we act. However, this has a dark side: because it
+is not well understood what these symbologies mean directly, it is difficult to
+evaluate why they produced action that worked, and why that action worked at
+all - meaning that it is difficult or impossible to know if it is possible, and
+under what conditions it would be, that these actions could change based on
+different situations; without a framework to assess archetypes and archetype
+relations outside of those archetypes, there is no way to understand what they
+mean translated explicitly, and why what they are communicating was or is
+important. There is no causal model here. And without a causal model, again it
+is impossible to know under what conditions these archetypes were true, and
+under what changing conditions they may now be false. Therefore, now that we *do
+in fact have* the conscious conceptual toolkit to unpack and assess these
+archetype-carrying stories, we must make use of those to maintain fitness for
+our *current* envelope.
+
+**Nota bene:** when I say "archetype," it is as a synonym for pre-conscious or
+non-conscious concept, meaning that they may represent more than what is
+commonly thought of as an archetype - which is generally limited to characters
+or narrative situations. My definition of archetype can contain archetypal
+*rules* such as "thou shalt not kill" and archetypal *relations* such as respect
+for elders.
