@@ -332,10 +332,10 @@ natures either, but as I say above there is little danger of this, considering
 how raw and immediate the demands of our animal natures are, vis-à-vis our human
 natures.
 
-## fulfillment as action
+## fulfillment as action and the meta-virtues
 
 What capabilities must be exercised through action for the fulfillment of the
-human essence *qua*** human? Three, each drawing its unique manifestation from
+human essence *qua* human? Three, each drawing its unique manifestation from
 that Promethean wellspring, consciousness: the social faculty, the rational
 faculty, and the productive faculty. Each of these is made possible by the
 rational consciousness of humans, in its human form: the social, in voluntary
@@ -344,22 +344,41 @@ allegiances and fear; the rational, in the understanding of the world and the
 interaction and description of it properly; and the creative, in problem solving
 and creation of new concepts only made possible by the first two.
 
-The first and most important uniquely human capability, which must be made use
-of to allow true fulfillment on the part of a consciousness whose capability to
-experience things is *mediated* by its mind, and whose primary differential from
-other living entities is also its mind, is the exercise of rationality. This
-does not require that everyone at all times be a logician, mathematician, or
-philosopher, but it does require that everyone *think* about their situation
-instead of always walking through life in a haze of undefined forms. We must
-think and understand ourselves and what surrounds us in order to be able to live
-properly. And if one wishes to go more extreme, to become a user-of-reason as a
-career, as a life style, that is one route to fulfillment, because it is a
-faculty and component of human fulfillment. There is no other animal capable of
-using reason on a conscious and conceptual level, as humans are: all the
-"rational" behavior of animals, so far as we can tell, are mediated and directed
-by instincts which are developmentally *shaped* by physical reality which,
-because it is rational due to its inheritance from the Object, enforces rational
-action on the part of all actors within it if they are to be successful.
+I will explain what each of these entails, using a framework which I will call
+the *meta-virtues*: because these capabilities imply certain ways of acting are
+better or worse for the conscious part of the human animal, it might be very
+tempting to call these three things virtues directly. However, virtues are
+usually much more specific modes of acting, whereas these are things one must
+*use in the process of acting*; this implies a certain use, of course, but there
+are a very wide variety of uses which can fall under these categories which can
+be termed "ways" of acting. This is not a hard-and-fast distinction, but it is
+one I have found useful: the meta-virtues are the general things that have to be
+used when acting, and the virtues are the methods of action that best make use
+of those things. Virtues are more concrete, they are the tying of specific
+situations or aspects of life *to* this "suggested toolbox" of capabilities.
+
+These meta virtues are primarily the three mentioned above, but can also be
+formed by the combination of two or even all three of the suggested capabilities
+of action, meta-virtues, along with sometimes specific situations, to provide
+other more complex capabilities for virtues to suggest the way of acting to make
+best use of that kind of action.
+
+The first and most important meta0virtue, which must be made use of to allow
+true fulfillment on the part of a consciousness whose capability to experience
+things is *mediated* by its mind, and whose primary differential from other
+living entities is also its mind, is the exercise of rationality. This does not
+require that everyone at all times be a logician, mathematician, or philosopher,
+but it does require that everyone *think* about their situation instead of
+always walking through life in a haze of undefined forms. We must think and
+understand ourselves and what surrounds us in order to be able to live properly.
+And if one wishes to go more extreme, to become a user-of-reason as a career, as
+a life style, that is one route to fulfillment, because it is a faculty and
+component of human fulfillment. There is no other animal capable of using reason
+on a conscious and conceptual level, as humans are: all the "rational" behavior
+of animals, so far as we can tell, are mediated and directed by instincts which
+are developmentally *shaped* by physical reality which, because it is rational
+due to its inheritance from the Object, enforces rational action on the part of
+all actors within it if they are to be successful.
 
 The second component of this is what I called production above, which might also
 be called creation. This relies on rationality, of course - all other components
@@ -396,16 +415,61 @@ and capable of communicating rationally with each other about these things, we
 are the only living beings capable of reorganizing ourselves and our hierarchies
 according to situation, need, and goals.
 
-## value once more
+## Maslow's Hierarchy and Meta-Virtues
 
-Thus the things we do value, ultimately, we value because they fulfill us -
-partially; and moreover the things that we should value, ultimately we should
-value for the fact that they fulfill us - totally.
+Now, previously I have explained why both the animal virtues and the human
+virtues and meta-virtues are necessary for the health and fulfillment of a human
+being, as a human being is both an animal and a conscious being - the
+interaction of the two are important. In that previous explanation, I proposed
+several reasons why the higher, conscious faculties and the needs for
+fulfillment that they bring, are more important than the animal ones. One reason
+I gave is that the consciousness, being the lens or glass through which all
+other experiences are had, has a more immediate claim on the experience of
+fulfillment. This is true, but it *does not* have a more immediate claim on
+anti-fulfillment - i.e. active pain.
 
-Things that fulfill us allow us to achieve that state of being in life where we
-can act to achieve our fulfillment, using our talents *qua* humans as well as
-our unique talents, without undue suffering which prevents the appreciation of
-such fulfillment, and allows occasional happiness - happiness itself is not an
-anti-value, in moderation and within the proper framework.
+In the interest of making clearer what my point is, since it is a central one,
+let me continue explaining using Maslow's Hierarchy of needs:
+
+![Maslow's Hierarchy of Needs](/maslow.jpg)
+
+In this picture, one might put the animal needs at the bottom two rungs: these
+are the needs that we must have to maintain basic physical integrity. The animal
+needs are what are *absolutely required* in order to move *up* the hierarchy:
+the ones above cannot exist at all without a minimum measure of the ones below,
+and the ones above can be best achieved when there is a balanced amount of the
+ones below - one cannot, for instance, do anything if one is wasting away of
+sickness or hunger, and likewise one cannot do anything if every time you build
+or create, it is snatched away or destroyed.
+
+However, once the minimum amount of those basic animal needs are met, one will
+find that it does not *increase* your happiness to increase the amount that they
+are satisfied; moreover, even that minimum does not bring active fulfillment, it
+only removes active pain or suffering, and there is a vast gulf between what is
+not painful, and what is pleasurable. Therefore, as the active pain decreases,
+the clamor of the animal needs will fall away, leaving the mind clearer to
+recognize its situation; and because the mind is in fact the seat of all value
+and experience, it will feel itself more in dire need than it will feel its
+body - so that it will feel that the satisfaction of its higher,
+consciousness-induced needs are far more important and satisfying than
+increasing the satisfaction of the lower needs. This explains how people who are
+perfectly comfortable, who can increase their intake of all sorts of physical
+luxuries, are still often empty inside in important ways: meeting the needs of
+your animal-self becomes less and less important as its active pain goes away,
+until the fulfillment of the mind comes to predominate.
+
+Thus we may say that the consciousness fulfillment is "more important" than the
+animal fulfillment.
+
+**Nota bene:** there is a difference here between how foundational a need is,
+and how important it is. An analogy will serve best here: imagine you are
+standing on the top of a pyramid - much like Maslow's - and looking down. The
+parts of the pyramid closest to you are the most immediate, and they look the
+biggest, because of perspective. Thus, they seem the most important. They will
+loom in your consciousness. However, if we were to remove the base, which seems
+not so important from this height, the entire tower itself crumbles to the
+ground. It is the foundation without which nothing else can be gained: so, for
+other things to seem most important, the foundation must still be built to some
+minimum specification.
 
 [^1]: [Hedonic Treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill)

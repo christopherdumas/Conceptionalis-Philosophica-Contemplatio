@@ -111,7 +111,110 @@ between two concepts separately derived - such as that the street is wet after
 it rains - a relationship which is usually not necessary in all cases, since the
 relationship must be observed separately from either concept.
 
+## The reliability of the senses
+
+We have no innate knowledge, and no rational knowledge, no mode of knowing, that
+our senses accurately report the envelope - the non-controllable reality
+external to us, whatever it metaphysically is. All we know is what seems true to
+us: it seems that there is a world out there ontologically separate from any of
+us, and it seems like this or that.
+
+### The external senses
+
+This has led many to say that we must assume some basis which would allow us to
+"get to" the reliability of the senses in order to get anywhere. I say that that
+is not true: we can know that the senses are reliable insofar as they continue
+to allow us to act in ways that seem beneficial: and since this seeming is our
+only interaction with the world, it only matters that things *seem* beneficial
+in any case. Thus, one can trust the senses as long as they "continue to work
+for you."
+
+And sometimes we have experienced situations where our senses have failed us
+temporarily: where they led us to seemings that precluded our action towards
+situations that "seemed" beneficial to us, so that when we awoke later we
+realized our mistake. We cannot trust the senses completely anyway: we already
+all only do what I say above, in trusting the senses as long as they allow us to
+act in a way that is beneficial to us, and distrusting them when and insofar as
+they do not. We can stop trusting them completely as soon as it turns out that
+they do not allow us to act in any way commensurately with themselves, such that
+they told us one thing, but when we acted on it they showed to us that that
+action did not work - picture a man who is hallucinating, thinking that he is in
+a hallway, when really he is running into a wall: he will feel that wall, or the
+prevention from being able to move.
+
+And if all senses, including all bodily processes that we sense, did not
+contradict, but all simultaneously transferred to producing a totally other
+picture, we would have no choice but to go along with it, for there would be no
+inner contradiction: but we could always keep an eye out for one, as we do in
+all situations, as skeptics.
+
+Therefore, the senses are "reliable" only insofar as they allow us to act in
+ways which allow us to move towards situations that are more beneficial to us,
+or at least allow us to react to situations in ways that mitigate harm to us,
+and as long as they do not contradict themselves. Assuming the reliability of
+the senses totally is *actually incorrect!*
+
+### The internal senses
+
+The correctness of the external senses is determined by whether the are
+consistent among themselves - one knows if one's eyes are seeing wrong, if one's
+sense of pain or touch denies what you are seeing - and whether they can allow
+correct action - if your senses tell you to do one thing, but then when you try
+to do it, it turns out that the situation was otherwise - which are all
+ultimately measures of how well our senses interact with the envelope *within
+which we exist and act*, but my internal sense of fulfillment does not have any
+of these external ideas: it is not connected to an envelope - it *stands for
+itself*.
+
+While the senses *stand for* an envelope, with a few methods of checking if they
+are "serving their purpose" or "useful," the internal sense of fulfillment does
+not *stand for* anything: it simply represents how fulfilled one is. Therefore,
+if the senses are not registering - not connected to - something, then that is
+an aspect in which they are wrong. However, if the inner sense of fulfillment is
+not connected to something - or rather, if that thing is not connected to *it* -
+then that does not make the sense of fulfillment wrong: it makes that thing not
+pertinent.
+
+For example: if my sense of fulfillment is not connected to some metaphysical
+soul, then it is simply not connected to it - the one does not matter to the
+other. However, if my senses are not cognizant to such a thing, then my senses
+"are not correct" in that area.
+
+**Nota bene:** if something is totally disconnected from any sense, so that even
+when one takes an action it does not influence how your senses assess the
+success of that action, then it *does not exist* for all intents and purposes.
+
+This means that one can trust one's deepest internal "compass" of
+moment-to-moment fulfillment, since by definition it cannot be mistaken. This
+does not mean, however, that one's ideas about what *in the future* will make
+one well off cannot be mistaken; furthermore, it does not preclude the fact that
+oftentimes humans will suppress aspects of their fulfillment-compass, so that
+they are not aware of them consciously. However, this suppression still
+continues to cause changes in fulfillment that they do notice: after all, if
+something could be totally deleted from influencing the compass of fulfillment,
+so that it did not matter anymore, what would it matter that this was done, to
+the person who had done it? The problem with suppression is that it makes one
+wrong about future states of fulfillment and true current states - that is the
+only problem with it - meaning that the compass is still trustworthy to
+ascertain the true state.
+
+### Assumptions
+
+Thus, we only need provisionally, as long as it does not contradict itself, or
+lead to inability to act - inconsistent world-state transitions - accept the
+validity of the senses, and hence other things, which we will go on to cover.
+However, we can rely on our internal sense of fulfillment in order to guide our
+actions and what *is* "useful."
+
 ## Developmental Theory of Reality
+
+Observing the seeming-envelope outside, in light of this, it seems that we are
+in a situation with certain biological and natural laws. These seem to
+reinforce, if we are correct in their seeming, the reliability of the senses and
+mind, to a degree: therefore, our senses are not in contradiction, but
+compatible - they seem at least to confirm their own general reliability; it
+would indeed be a significant problem if our senses confirmed instead their
+total unreliability.
 
 Unlike Kant, I do not think that there are any real concepts which we need to
 perceive at all; infants come into the word not yet comprehending basic things
