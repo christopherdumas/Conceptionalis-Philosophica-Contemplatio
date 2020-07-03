@@ -185,7 +185,10 @@ Forsaking rationality in justice means that the logic behind how we behave
 toward others will not be *communicable* to others who do not already agree -
 will not be intersubjectively justifiable - and thus will not aid in conflict
 resolution or in the stable construction of norms that would allow a healthy
-society to form and for cooperation to become possible.
+society to form and for cooperation to become possible. Therefore, forsaking
+such rationality is not just a forsaking of the rational faculty and the virtue
+of justice, but a leaving-behind of the greater part of the ability to
+cooperate, to form stable societies, and more.
 
 ### assumed universalizability
 
@@ -254,13 +257,125 @@ everyone agree with the virtuous human's assessment. It does not require any
 commitment from anyone else, only that the just man recognize that, rationally,
 he has the "right" to retaliate or defend within the bounds set out.
 
-### Another
-
 What defines "another"? This will be covered in the later section on absolute
 ethics, which any rational - not simply just - being must recognize as correct
 for the purpose of their rational action, which establishes stronger *defense*
 rights, although it does not establish any *retaliation* rights; it will also
 establish the right of *property.*
 
-## Truthfulness
+## the virtue of Truthfulness
 
+Truthfulness, another fundamental virtue listed in the table above, is composed
+of two parts: truthfulness to self, and truthfulness to others.
+
+The former is a fundamental component of conscious thought and perception: if
+one cannot be honest with oneself, one does not truly know what one knows or
+does not know, cannot accurately form, manipulate, or relate the concepts one
+has, and cannot know what one truly thinks; moreover, if one is not honest with
+oneself, one cannot actually know or act on perceptions of the envelope - one
+cannot live properly in line with the seeming externality which, by virtue of
+its separateness from desire, we must act in accordance with. Therefore,
+inasmuch as actions are needed - which is almost all of the time - self-honesty
+concerning experience is indispensable, and inasmuch as rational thought is
+needed, and the rational faculty is to be fulfilled, self-honesty concerning
+thought and logic is paramount.
+
+The latter is a fundamental component of communication and socialization: if all
+or even most people lied to others about their own mental state or the state of
+the world around them, all social cooperation and organization would become
+impossible, and any communication of ideas or pertinent information would also
+be ruled out entirely. Therefore, inasmuch as the human faculty of social
+cooperation and the animal desire for fellowship is to be fulfilled, either in
+the context of production, cooperation, or intersubjective rationality, or pure
+socialization, respectively, truthfulness with others is necessary.
+
+Furthermore, Truthfulness interacts with Justice in important ways: Justice
+requires that if you lie to someone in a way that influences their action in a
+significant manner, then they essentially did not act consensually, since they
+did not have reasonable awareness of the situation *because of you* and not
+simply because of natural human fallibility or their own choices. Therefore, to
+the degree that this coerced action based on fraudulent information results in
+their detriment, it is *your own fault* for causing it, and therefore Justice
+would allow them to cause retribution to the liar in turn. Therefore, it is not
+simply the meta-virtues of production and cooperation that require honesty with
+others, but, in some cases, the virtue of justice itself requires it, and allows
+retribution in the case of its absence.
+
+However, and this is important: in cases where lying is to the *benefit*, not
+the detriment, of others, although it is still coercion, and therefore wrong,
+the nature of the punishment will have to be different - perhaps based on wasted
+effort or concern. Moreover, if there is no consideration of justice - if, for
+instance, the person being lied-to has in fact committed or intended their own
+coercion, opening themselves up to it in turn by demonstrating through acting,
+or beginning to act, their openness to coercion - the only considerations that
+remain is whether the meta-virtues of social cooperation and the animal desire
+of socialization will be served more by lying or not lying. For, social
+cooperation, as a meta-virtue, relies on the meta-virtue of rationality, as they
+all do, and thus the virtue of justice, to determine what is and is not
+cooperation, and when cooperation is to the benefit of all involved, or only
+some, and who should be cooperated with. If something is cooperative, it is
+beneficial to both parties and their values in some way. For something to be
+non-cooperative, it has to be coercive - which we have already established does
+not always apply.
+
+## the virtues of modesty and self-esteem
+
+Modesty and self-esteem are interesting virtues - for many years, modesty was
+the only one of this pair to be praised, while the other, under the name pride,
+was treated as a vice - even when it was justified pride that could be backed up
+by true worth, skill, or deeds. Now, the concept of self-esteem is returning
+through the popular self-help books and pop-psychology writers, but in its own
+pernicious form: self-esteem is often treated as a state of mind where you
+respect and like yourself *as you are*, without need for change or improvement.
+Thus, we have two extremes, the Scylla and Charybdis of self-esteem: an excess of
+humbleness, and an excess of pride.
+
+To be too humble, giving in to pure modesty of the untrammeled sort which
+Christianity pushes, is to give up the worth that you do actually have, and
+therefore to preclude any improvement in the ways in which you are not worthy of
+self-esteem, to give up knowledge of where you are, so you can improve even
+further, and to lie to others and yourself. We all know the type of person who
+insists they are *terrible* at something they really excel at, refusing
+themselves the emotionally rewarding knowledge of their true achievement that
+helps them continue improving, balances their mental state, and imparts useful
+information to others. Furthermore, to give up self-worth totally, through the
+wholesale abasement of self - such as, once again, Christianity requires - is to
+tell yourself that not only are you imperfect now, and perhaps not perfectible,
+but that you do not deserve what fulfillment you have now to the degree that you
+do exercise the meta-virtues, to say that one should not strive for full
+fulfillment because you do not deserve it, should not have it. It is to give up
+any chance at fulfillment right out of the gate, and to drag those around you
+down with you.
+
+To be too prideful, on the other hand, is to lack truthfulness to self and
+others: to act blindly to one's own capabilities, so that one will often fail,
+dashed against the rocks of the envelope; it is also to cut off any chance, once
+again, of improvement. It also implies that one believes one has already
+achieved total fulfillment, as much as it is possible to, to the degree that one
+is overly prideful: it is thus to end before it has begun, to cap, a life's
+fulfillment. This can often lead to depression: for, if one believes that he has
+gone as far as possible in fulfillment, and yet he is still not fulfilled, what
+else is there?
+
+## the virtue of ambition
+
+## the virtue of productivity
+
+## the virtue of benevolence
+
+## The interdependence of the virtues and meta-virtues
+
+As you can see in the last paragraph above, all the virtues and meta-virtues
+depend on each other, because they all stem from the central fact of human
+existence: the mind, and its capability for conscious rationality and
+concept-formation. When definitions or framework are needed, the meta-virtue of
+rationality and its derived virtues provide them to the other meta-virtues and
+virtues; notice that virtues themselves can provide a framework for the
+meta-virtues, even those that partially motivated them. This is important to
+keep in mind, and leads back to an important idea: all virtues are at a unity!
+There should be almost no conflict between them, because they provide an
+understanding, framework, and context for each other. Moreover, if you have
+one - rationality - you have all the others: just look, and behold, that many or
+most of these virtues were invented or understood, in various forms, by separate
+philosophers throughout time, in some part or another: from Aristotle to Bentham
+to Kant to Rand and back and forward.
