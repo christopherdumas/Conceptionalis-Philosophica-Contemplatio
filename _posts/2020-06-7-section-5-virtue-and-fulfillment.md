@@ -359,9 +359,60 @@ else is there?
 
 ## the virtue of ambition
 
+Ambition is the desire to achieve something. It does not have to be simply the
+material achievement of wealth or power which is so degraded by vacuous and
+unoriginal moralizers throughout history, although often its most socially
+useful and heroic manifestations are indeed just that; ambition is only this:
+the desire to achieve something of the values of the self, and the willingness
+to do anything to realize that achievement consistent with those values. It is,
+in effect, the bravery to seek out and follow the guidance of value wherever it
+may lead, with no fear and no reservation.
+
+Ambition is bravery and consistency in values and action.
+
+Ambition is what truly drives humans to create, to innovate, to move beyond the
+circumscribed borders of whatever state they were in. If their values were
+wrong, it can wreak havoc, and if their values were, to the degree that they
+followed them, aligned with reality, they greatly enrich the wealth of the human
+race and the society around them - not to mention the history books.
+
+Ambition is an outgrowth of self-esteem and productivity, often combined with
+the cooperative meta-virtue.
+
 ## the virtue of productivity
 
+An unproductive human is a human who is useless to himself and others: strictly
+a parasite; like parasites, an unproductive human requires a host - invariably,
+another human host. Just from this observation one can conclude that it cannot
+be part of the *essence* or any of the *faculties* common to all humans to
+exercise such parasitic nature, for if that were so, there would be no one to
+leech off of in the first place. Hence we must resort to its opposite: it must
+be in the essence or one of the faculties of human beings to be productive.
+
+This is not inconsistent with what we see, either, and what we have derived
+through the meta-virtue of creativity. A human who is temporarily or even
+permanently totally unproductive will find that third component of their
+essence, the meta-virtue of creativity and production, unfulfilled. They would
+have to turn to the other two: rationality, or sociability. However, the first
+cannot truly be exercised without the result being the creation of some new
+thing: science, philosophy, fiction. The second, as well, is best exhibited
+through productive cooperation: simple socializing, as we see with those who do
+not work at all, but interact with their families constantly, is not enough:
+cooperation in the rational manner designated for the human essence, not
+cooperation or socialization in the manner of the animal desires, requires
+rational communication, common goals, mutual benefit.
+
 ## the virtue of benevolence
+
+Like every other social mammal of its type, the human being has empathy and
+compassion. These are natural and usually very strong feelings of fellowship for
+those around, which must to some degree be satisfied thanks to the animal
+essence and desires which underlie the human psyche.
+
+Furthermore this desire for charity can be harnessed by the rational and
+cooperatively social faculties or meta-virtues to promote good feelings that
+harmonize and increase cooperation, or to induce reciprocity, or to shore up
+good feelings in case of future emergency.
 
 ## The interdependence of the virtues and meta-virtues
 
