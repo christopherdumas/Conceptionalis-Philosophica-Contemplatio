@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Section 3 - Axiology"
+title:  "Section 3: Of Axiology"
 date:   2020-06-2 10:07
 categories: section
 ---
@@ -10,7 +10,7 @@ categories: section
 Value is not a material property that can be observed outside of the experience
 of beings. It is not a property like "color" or "smell" that can be objectively
 determined. After all, there is nothing about value that does not refer to *who*
-it is of value *for* - is bread "valuable?" It depends on if anyone is hungry or
+it is of value *for* --- is bread "valuable?" It depends on if anyone is hungry or
 not. Value is not a concept of some form of object or detail, it is not
 object-ive; it is a relation-concept conceived from the interaction between
 outside objects *and actors with certain needs.* In a world where no conscious
@@ -36,15 +36,15 @@ The hierarchy of values, the comparison between values which generates
 differences in value, can be represented by the concept of opportunity cost;
 whichever value is acted on to the possible or actual detriment of other values,
 whichever value causes one to ignore all the other values cast aside in acting
-towards it - opportunity cost - is the most valued value. Thus, part of the
-"right conditions" considered in hypothetical action - conditional intention to
-act - for a value is whether it will sacrifice values that one would rather act
+towards it --- opportunity cost --- is the most valued value. Thus, part of the
+"right conditions" considered in hypothetical action --- conditional intention to
+act --- for a value is whether it will sacrifice values that one would rather act
 for instead. You value something *even if* you would act to get it, if only you
 didn't have to sacrifice a greater value, and you value something more if you
 act to get it even if you would sacrifice other values for it.
 
 This even applies to time: a value acted in the interest of now means that some
-other values must be postponed until later - it becomes impossible or unlikely
+other values must be postponed until later --- it becomes impossible or unlikely
 to satisfy them now, and less likely that they will be satisfied at all, since
 the future is uncertain.
 
@@ -70,9 +70,9 @@ If value is indicated by action or the willingness to act as we have seen, then
 the actor is the ontological location for value.
 
 The thing that acts, or considers acting, is a consciousness. That is the thing
-that generates action, that considers things - both internal and external - and
-decides whether or not to act upon them. Since action and inaction - whether
-actual or hypothetical - are the things that show value, a consciousness is the
+that generates action, that considers things --- both internal and external --- and
+decides whether or not to act upon them. Since action and inaction --- whether
+actual or hypothetical --- are the things that show value, a consciousness is the
 thing that values.
 
 Action not only indicates the presence of values: a lack of values precludes
@@ -85,7 +85,7 @@ especially for *choosing* between actions.
 Hence, something which chooses to act, and chooses between actions, requires
 values. Something which reacts only, which produces knee-jerk responses to
 environmental stimuli, does not require values, for it does not ponder, choose,
-and conceptualize actions. Only something which has internal - mental - concepts
+and conceptualize actions. Only something which has internal --- mental --- concepts
 of actions and states of the world can internally compare and contrast them, can
 *choose*, and so only something which has mental conceptual processes requires
 values in order to choose.
@@ -95,11 +95,11 @@ various states of the world, but they only react to stimuli; these reactions
 have been programmed into their own genetic code so that they react in favor of
 the states of the world that lead to the propagation of those selfsame genes.
 There is no comparative apprehension and conceptualization of different states
-of the world, and no comparison therein of actions - only action in favor of a
+of the world, and no comparison therein of actions --- only action in favor of a
 predetermined state of the world, which they have no choice in, and therefore
 predetermined action, which I call reaction. Notice that, for very complex
 species, it is possible for this reaction for a predetermined state of the world
-to look as if there is consideration - but try asking an ape to consider that it
+to look as if there is consideration --- but try asking an ape to consider that it
 might be a better state of the world if he and his fellows went extinct. He
 could not consider it, even if he could comprehend language! Only humans are
 capable of such ideas.
@@ -109,8 +109,8 @@ identical to free action, as they often do, one must assume genetically
 predetermined reaction, simply because it is the simpler, less involved
 explanation, which requires nothing we do not already understand. Even for
 humans, if we were an alien race descending from the heavens, we would have to
-assume, until we could assure ourselves otherwise - through humans knowingly
-acting in anti-evolutionary ways, for instance - that humans were not freely
+assume, until we could assure ourselves otherwise --- through humans knowingly
+acting in anti-evolutionary ways, for instance --- that humans were not freely
 acting creatures, but automatons. The only reason that we do not, in reality, is
 that we each and every one of us *inhabits a human consciousness.* We know by
 experience that there is at least some core of us that is not genetically
@@ -135,7 +135,7 @@ for an individual.
 
 **Nota bene:** Communities do not exist ontologically in the envelope. A
 community is a concept generated by the abstraction of the actual constituent
-entities - which are what ontologically exist, and are separate - into a
+entities --- which are what ontologically exist, and are separate --- into a
 collective symbol for means of easier communication and intellectual shorthand.
 This is the same thing that we do for all physical objects, which are actually
 composed of trillions of atoms, but which we refer to as singular entities as a
@@ -191,18 +191,18 @@ philosophically analyzed because it is not contingent on individual human
 experiences. It is universal to human experience in its fundamentals. This is
 because it depends on a secondary hierarchy of values, the hierarchy of
 value-causes: like the life-cycle of a concept, the secondary hierarchy proceeds
-from the more abstract to the more specific - although it is more natural in
+from the more abstract to the more specific --- although it is more natural in
 this case to speak in the opposite direction. The secondary hierarchy proceeds
-to the specific things in our lives that we act towards - a car, a job, that
-food in the refrigerator - to the direct reason we value that thing - to go
-places faster, to get money, to satisfy hunger - to the reason why we pursued
-(valued) those reasons - to waste less time, to spend on hobbies, to continue
+to the specific things in our lives that we act towards --- a car, a job, that
+food in the refrigerator --- to the direct reason we value that thing --- to go
+places faster, to get money, to satisfy hunger --- to the reason why we pursued
+(valued) those reasons --- to waste less time, to spend on hobbies, to continue
 living. Onward and upward the ladder may go, and I intend to examine where it
 ends.
 
 If one were to pursue the secondary hierarchy of values as far as it would go,
-to the highest value or values, the values by which all others are - to the
-human consciousness at least - justified, what would we find there? It would
+to the highest value or values, the values by which all others are --- to the
+human consciousness at least --- justified, what would we find there? It would
 have to be something that is valued *for its own sake*. Something which does not
 need another reason to be valued except that it is itself: a self-evident value.
 
@@ -214,8 +214,8 @@ and of themselves, such as knowledge or (as we saw earlier) the satisfaction of
 hunger (since it can be valuable to eat aside from the utilitarian goal of
 maintaining life), but which are *also*, simultaneously, in service of a further
 goal; these things are not as fundamental as those other things which they are
-partially valued in pursuit of. They can be cast aside - by the laws of
-the primary hierarchy of value - if there is another, better way of achieving
+partially valued in pursuit of. They can be cast aside --- by the laws of
+the primary hierarchy of value --- if there is another, better way of achieving
 the goal they were pursued partly in virtue of, if by doing so some time is
 saved or something else is conserved. If they can be cast aside, they are not as
 much of value. But something which is for the sake of *only* itself? Something
@@ -223,7 +223,7 @@ which nothing else is pursued through the use of? That is truly the ultimate
 value for the secondary and primary hierarchies of value.
 
 Let us attempt to consider what this ultimate value might be. What do we value
-*solely* for its own sake? The only answer is *fulfillment* - all other things
+*solely* for its own sake? The only answer is *fulfillment* --- all other things
 that we do or value, even "happiness," even things that do not bring us
 "happiness," always rotate back around to this answer: "because I find
 fulfillment (or satisfaction if you like) in it." This is always the answer. And
@@ -241,7 +241,7 @@ Fulfillment is a state of making use of your faculties to the fullest and
 achieving something. Happiness is a state of euphoria.
 
 Fulfillment is enduring, because it is a holistic state. Happiness is fleeting,
-because it is an emotion - it becomes the new *expected baseline*, so that to
+because it is an emotion --- it becomes the new *expected baseline*, so that to
 take away what once made you happy and now is part of your baseline only makes
 you less happy then before that thing became part of your baseline.[^1]
 
@@ -266,7 +266,7 @@ we must examine a human being.
 
 The faculties of any entity are the categories of action or thought of which it
 is capable. One of a cheetah's faculties is running at 58 miles per hour, for
-instance - but the faculties are of course not limited to just what is *unique*
+instance --- but the faculties are of course not limited to just what is *unique*
 about creature: a cheetah's faculties also include eating, which all animals do,
 and other things which even primitive single-celled organisms do. Thus it is
 with humans as well: we have uniquely human faculties, which are limited only to
@@ -295,7 +295,7 @@ which point they tend to overthrow themselves in a fit of excess or in raging
 ineffectuality against a situation unfamiliar to our genetic memories, we are
 already in the realm of the purely human faculties of consciousness and
 conscious control. I said "almost" above for a reason! The presence of a mind in
-the equation changes the balance of power - there is a new tactician in play,
+the equation changes the balance of power --- there is a new tactician in play,
 one who commands vast armies of his own: suddenly the instincts have a rival:
 this is no longer a unipolar game. The human mind is the only thing capable of
 editing and directing the animal instincts such that they do not undo
@@ -312,7 +312,7 @@ itself, only the thing which is the human faculty feels its gain or loss!
 Therefore, if we care for how we feel, we must care about our faculties, since
 that which feels and that which is the faculty is one and the same. This thing
 also feels the satisfaction of the animal, yes, but that satisfaction is still
-mediated through the filter of the consciousness - if the consciousness is
+mediated through the filter of the consciousness --- if the consciousness is
 already unhappy through other reasons, it will filter unhappily too. One cannot
 eat your way out of depression.
 
@@ -323,7 +323,7 @@ fulfillment.
 
 We must fulfill our essence as humans instead of like other animals primarily,
 besides the considerations described above, because we *are not like other
-animals.* We are partly of primate nature, and mammal nature, and so on - but
+animals.* We are partly of primate nature, and mammal nature, and so on --- but
 our nature is a strict super-set of those other natures, such that we can never
 fully fulfill, or satisfy, ourselves by only appealing to a *portion* of our
 entire natures. This holds true for respecting our animal natures as well: we
@@ -381,13 +381,13 @@ due to its inheritance from the Object, enforces rational action on the part of
 all actors within it if they are to be successful.
 
 The second component of this is what I called production above, which might also
-be called creation. This relies on rationality, of course - all other components
-of human fulfillment do - but it is different in this sense: it requires direct
+be called creation. This relies on rationality, of course --- all other components
+of human fulfillment do --- but it is different in this sense: it requires direct
 interaction and conscious conceptual pattern-seeking concerning external reality
 beyond the often pre-conscious understanding of the laws of the Object which
 represents the field of rationality; it requires the examination of the rules,
 laws, and patterns of external reality and their application to unique tools or
-objects or pieces of art - we will discuss art later - in order to improve
+objects or pieces of art --- we will discuss art later --- in order to improve
 material conditions of well-being and happiness. Although some animals often
 construct tools, these tools are always based on specific understandings of
 specific situations, and lessons learned through them are not usually expanded to
@@ -395,15 +395,15 @@ include other situations; when they are, it is only a single type of tool,
 because animals are not capable of using rationality to draw general patterns
 and lessons and construct complex and fitted tools. Thus, the rational
 assessment and adaptation through production and creation of the environment to
-human needs is unique to us - uniqueness made possible by our method of
+human needs is unique to us --- uniqueness made possible by our method of
 interacting with reality, but also importantly by rationality.
 
 The third component of this fulfillment through faculty/capability available to
-humans is perhaps the most important - I am not sure myself: social interaction.
+humans is perhaps the most important --- I am not sure myself: social interaction.
 Once again, we are not unique in our proclivity and capability to *be* social.
 However, we are unique in the sense that we are the only beings capable of
 communicating rationally. Thus, other instances of social cooperation in the
-animal world are merely the product of intimidation or instinct - humans alone
+animal world are merely the product of intimidation or instinct --- humans alone
 are capable of explaining to each other the ideas of mutual goals and mutual
 benefit, to incentivize cooperation outside of mere genetically preprogrammed
 structures or fear for life. Notice also, in this same vein, that all the social
@@ -419,14 +419,14 @@ according to situation, need, and goals.
 
 Now, previously I have explained why both the animal virtues and the human
 virtues and meta-virtues are necessary for the health and fulfillment of a human
-being, as a human being is both an animal and a conscious being - the
+being, as a human being is both an animal and a conscious being --- the
 interaction of the two are important. In that previous explanation, I proposed
 several reasons why the higher, conscious faculties and the needs for
 fulfillment that they bring, are more important than the animal ones. One reason
 I gave is that the consciousness, being the lens or glass through which all
 other experiences are had, has a more immediate claim on the experience of
 fulfillment. This is true, but it *does not* have a more immediate claim on
-anti-fulfillment - i.e. active pain.
+anti-fulfillment --- i.e. active pain.
 
 In the interest of making clearer what my point is, since it is a central one,
 let me continue explaining using Maslow's Hierarchy of needs:
@@ -438,7 +438,7 @@ are the needs that we must have to maintain basic physical integrity. The animal
 needs are what are *absolutely required* in order to move *up* the hierarchy:
 the ones above cannot exist at all without a minimum measure of the ones below,
 and the ones above can be best achieved when there is a balanced amount of the
-ones below - one cannot, for instance, do anything if one is wasting away of
+ones below --- one cannot, for instance, do anything if one is wasting away of
 sickness or hunger, and likewise one cannot do anything if every time you build
 or create, it is snatched away or destroyed.
 
@@ -450,7 +450,7 @@ not painful, and what is pleasurable. Therefore, as the active pain decreases,
 the clamor of the animal needs will fall away, leaving the mind clearer to
 recognize its situation; and because the mind is in fact the seat of all value
 and experience, it will feel itself more in dire need than it will feel its
-body - so that it will feel that the satisfaction of its higher,
+body --- so that it will feel that the satisfaction of its higher,
 consciousness-induced needs are far more important and satisfying than
 increasing the satisfaction of the lower needs. This explains how people who are
 perfectly comfortable, who can increase their intake of all sorts of physical
@@ -463,7 +463,7 @@ animal fulfillment.
 
 **Nota bene:** there is a difference here between how foundational a need is,
 and how important it is. An analogy will serve best here: imagine you are
-standing on the top of a pyramid - much like Maslow's - and looking down. The
+standing on the top of a pyramid --- much like Maslow's --- and looking down. The
 parts of the pyramid closest to you are the most immediate, and they look the
 biggest, because of perspective. Thus, they seem the most important. They will
 loom in your consciousness. However, if we were to remove the base, which seems

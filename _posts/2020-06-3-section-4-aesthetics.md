@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Section 4 - Aesthetics"
+title:  "Section 4: Of Aesthetics"
 date:   2020-06-2 10:07
 categories: section
 ---
@@ -19,10 +19,10 @@ specific to the observer, due to his capabilities both human and unique to him,
 is represented in the art that he values. If I value intellectual achievement as
 my fulfillment, making use of my rational faculty, which is highly developed in
 my own essence, like it is in many others, then I will value art that represents
-in itself the achievement and result of the intellect of the artist - i.e., I
+in itself the achievement and result of the intellect of the artist --- i.e., I
 will value intelligent art. If on the other hand I am one of an artistic bent
 myself, who strives for the creation of beauty, or empathy between people, I
-will value art that is beautiful, or empathetic - perhaps represents its
+will value art that is beautiful, or empathetic --- perhaps represents its
 characters deeply.
 
 Or, alternatively: the relationship between axiology and aesthetics is the
@@ -38,8 +38,8 @@ The narrative fulfillment represented in a piece of art is what we call its
 "meaning," and is composed of two parts: the faculty of the human consciousness
 which is required for that fulfillment and the specific way in which that
 faculty is used. As a general rule all those who desire a fulfillment by means
-of that faculty - by virtue of the fact that they are more highly developed in or
-psychologically disposed to the use of it - would find any art that portrays the
+of that faculty --- by virtue of the fact that they are more highly developed in or
+psychologically disposed to the use of it --- would find any art that portrays the
 use of that faculty with fidelity aesthetically pleasing.
 
 **Nota bene:** fidelity in this case is twofold as well: that the faculty used
@@ -51,12 +51,12 @@ viewers only recognize it as accurate if they recognize it *from their own
 conceptions*).
 
 To understand what a narrative represents, one must understand what the literal
-text of the narrative says - i.e. what the characters and narrator say, and
+text of the narrative says --- i.e. what the characters and narrator say, and
 which if any of the characters, tied to their viewpoint, the narrative seems to
-pick out as the "winner" - and the subtext and metatext are.
+pick out as the "winner" --- and the subtext and metatext are.
 
-Subtext is extremely hard to comprehend - thousands of years of human life-spans
-have been spent in hermeneutics often to little consensus - and often
+Subtext is extremely hard to comprehend --- thousands of years of human life-spans
+have been spent in hermeneutics often to little consensus --- and often
 subjective, in the sense that what one person understands to be a subtext from
 the text of some narrative might be entirely different from that of another due
 to their own context and capacity for interpretation. However, there is still an
@@ -73,15 +73,15 @@ illustrates.
 
 For example: if a narrative portrays two people, Alexander and Barclay, as
 having differing views of life, and in the end of the narrative Alexander is
-granted narrative preference - he gets a "happy ending" as it were - and Barclay
+granted narrative preference --- he gets a "happy ending" as it were --- and Barclay
 receives the opposite, there are two interpretations that can be drawn about the
 narrative's subtext: that the narrative is attempting to illustrate the
 Alexander is correct, or that it is attempting to illustrate that Barclay is.
 From just this description, it is more reasonable to provisionally select the
 first interpretation, since it explains all the data that we have so far.
 However, if we go further and say that Barclay is portrayed as a better person
-in some way - handsomer, more well-liked, acting more morally, or even just
-heroic music plays when he is on screen - then one might instead select the
+in some way --- handsomer, more well-liked, acting more morally, or even just
+heroic music plays when he is on screen --- then one might instead select the
 latter message, with the added caveat or complication that another part of the
 subtext is that those who are right do not necessarily always get what they
 deserve. Now, the first interpretation actually explains far less of the data,
@@ -96,7 +96,7 @@ There are a number of other species of artistic outflowing, which loosely fall
 under the second type of art, in that it represents something to do with the
 axiology of the observers through its narrative, instead of through the
 circumstances of its creation. Among these other species there are several
-important points - not the only things of importance, but the things most
+important points --- not the only things of importance, but the things most
 massive and noticeable on the horizon of aesthetic theory.
 
 ## evocative art
@@ -104,7 +104,7 @@ massive and noticeable on the horizon of aesthetic theory.
 There is another aspect of art which is perhaps even more important in function
 than any of the others up till now discussed, which is embodied in that
 perennial painting, the landscape: that aspect of art which draws out *longing*
-from the audience - a desire which they did not have before the artist, by
+from the audience --- a desire which they did not have before the artist, by
 showing them the beauty and power of a certain kind of state of being, evoked in
 their hearts a longing.
 
@@ -112,8 +112,8 @@ This type of art, beyond all others, is perhaps the most potent, for the simple
 reason that, instead of satisfying the desire for a certain kind of fulfillment,
 as the second type of art does above, or spurring audiences on along the path
 they already follow like the first, it diverts its audience along a new path,
-opening up new vistas of striving and achievement - which is the essence of
-fulfillment - that they might not have truly been aware of before. This kind of
+opening up new vistas of striving and achievement --- which is the essence of
+fulfillment --- that they might not have truly been aware of before. This kind of
 art can remake a man, or a society, through its force. It says: "It is time to
 move beyond that which you have already been doing. Do something daring. Be
 brave. Innovate."
@@ -127,21 +127,21 @@ long time pursued a different course. It broadens the mind and heart.
 
 Another essential component of the multifaceted, fractal thing that is art,
 perhaps the deepest and most complex mode of thought and product of which the
-human mind is capable - even philosophy, which I have sunk many hours into
+human mind is capable --- even philosophy, which I have sunk many hours into
 pondering, is capable by choice only of examining the nature of things through
-the use of one level of textual understanding - is empathetic art. The
+the use of one level of textual understanding --- is empathetic art. The
 empathetic narrative shares its form often with evocative art, in that it
 attempts to show some alternate thing from that which the observer is already
 capable of comprehending and following, something which is not already part of
 their past, present or future trajectory. But here, empathetic art is not often
 an aspirational thing, asking others to follow what it represents: instead, it
-asks others to *understand* some *specific* path - not to follow some general
-route - and in this way to broaden their horizons.
+asks others to *understand* some *specific* path --- not to follow some general
+route --- and in this way to broaden their horizons.
 
 Empathetic art often takes the form of a biography of some sort, which
 represents the path through life or some event of a single or some number of
 people, not by way of injunction to follow in their footsteps, or even
-necessarily to *value* their course - over others or not - but instead so that
+necessarily to *value* their course --- over others or not --- but instead so that
 an understanding between kinds of people, across specific barriers of time and
 place, can be reached, to expand the horizons of understanding and
 universalization between peoples.
@@ -149,11 +149,11 @@ universalization between peoples.
 Empathetic art evokes an intense experience of inhabitation and understanding
 between the observers and those who the narrative shows, allowing them to
 comprehend each other on a deeper level than a simple interaction could allow.
-This makes the connections between these people tighter - between the people
+This makes the connections between these people tighter --- between the people
 pictured and those similar, and between those who have now learned this new
 thing. But this is not the only thing that empathetic art facilitates: this
 broadening by one class of the intense empathetic feelings is not possible to
-extend to every human being in the world - the intensity, the experience, the
+extend to every human being in the world --- the intensity, the experience, the
 vast multitudinousness of it would overwhelm and fill to bursting the
 great-hearted soul who would try such a thing; however, there is another method
 open to the human psyche: that of universalization: the extension of something
@@ -163,7 +163,7 @@ connection.
 
 Universalization encompasses the willingness to consider the struggles of
 others, to expand one's horizons to include them, to consider how one's actions
-affects them - and this, for all those whom we do not directly experience
+affects them --- and this, for all those whom we do not directly experience
 *emotional attachment to.* The ability to expand horizons, to inhabit the eyes
 and heart of another person and to comprehend them, is of paramount importance
 to the human race: this capability of universalization, even without the intense
@@ -180,13 +180,13 @@ Rule (and all the other rules that precede it).
 ## speculative art
 
 There is one final type of art, which falls once more under the shadow of the
-second wing of the central artistic dichotomy - art that is valued for its
-process, and art that is valued for its narrative - and that is speculative art,
+second wing of the central artistic dichotomy --- art that is valued for its
+process, and art that is valued for its narrative --- and that is speculative art,
 itself cleft into two, its own dichotomy: normal speculative art, and cautionary
 art.
 
 Speculative art is often wrong. It is Cassandra with her curse, but without her
-prophetic vision - it cries out and is ignored, *rightly*, because its authors,
+prophetic vision --- it cries out and is ignored, *rightly*, because its authors,
 for all their foresight, do not have sight beyond vision. They are still mere
 humans, chained to the living moment, unable to spread infinite membraneous
 wings and wheel above the crystalline structure of existence.
@@ -203,9 +203,9 @@ they explored is then changed by that very extrapolation; Heisenberg's
 uncertainty principle does not apply only to particles.
 
 Speculative art asks the observers to consider a route to a certain future, to
-understand the causal model that exists in the author's mind - something which
+understand the causal model that exists in the author's mind --- something which
 must be constructed with great care and thought, if the warning is to be
-correct - and to examine the future. It asks them "Is this future acceptable?
+correct --- and to examine the future. It asks them "Is this future acceptable?
 And if not, look: this is how we could arrive there. We must stay off that
 path." Speculative art and speculative art are the predictive engine of society,
 as explained above, a great heuristic evolutionary intellectual mental engine
@@ -216,8 +216,8 @@ more viewpoints on it), it is projected hypothetically into the future, encoded,
 and returned to society for examination and evaluation.
 
 Part of speculative and its subtype, cautionary, art is its entertainment
-component - this is not an aspect which *always* exists, it is not a necessary
-detail to this concept I am explaining - which is the "spoonful of medicine
+component --- this is not an aspect which *always* exists, it is not a necessary
+detail to this concept I am explaining --- which is the "spoonful of medicine
 which allows the medicine to go down": it is important to allow the predictions
 and causal models from these wide-ranging perspectives to percolate into the
 consciousness of the wider society, so that different understandings and
@@ -232,8 +232,8 @@ some relation-concepts, details or structural features that allow the observer
 of that art to pick out what that symbol represents in their own conceptual
 framework.
 
-Within the context of narrative - narrative which can exist even within something
-static and singular, such as a painting - symbols allow a story to be about more
+Within the context of narrative --- narrative which can exist even within something
+static and singular, such as a painting --- symbols allow a story to be about more
 than just what is on the surface. Thus, the story can be about specific and
 detailed hypothetical non-real objects, but it can also be about
 non-hypothetical real objects and their relationships. This duality is vital in
@@ -244,13 +244,13 @@ hypothetical reality to imbue the message about non-hypothetical reality with
 increased complexity.
 
 Symbols are most often created consciously, as the creator of artistic narrative
-breathes life into their conceptual creation, but in other stories - such as
-myths and legends - it is unclear exactly how much symbology is consciously
+breathes life into their conceptual creation, but in other stories --- such as
+myths and legends --- it is unclear exactly how much symbology is consciously
 created and how much is an outgrowth of the non-conscious: the human mind is a
 pattern-seeker, observing and generating concepts with wild abandon, some of
 them correct, some incorrect. Much of this is done consciously, especially as
 the edifice of conceptual hierarchy is built up and conscious thought has more
-tools to work with; much, however, is done non-consciously as well - through the
+tools to work with; much, however, is done non-consciously as well --- through the
 direct understanding of observation, interaction, trial, and error, in such a
 way that these concepts exist before lasting memories themselves can be formed:
 before, in fact, the conscious personality could possibly have accumulated, so
@@ -267,7 +267,7 @@ fact, part of the toolkit necessary to wrestle with these ideas, and especially
 to *pick out** a symbology from stories, is accumulated itself over the course
 and development of philosophy and psychology; before those things had
 accumulated this understanding would not have been so possible, which was what
-necessitated the creation of these stories in the first place - this is why all
+necessitated the creation of these stories in the first place --- this is why all
 myth is not philosophy explicitly.
 
 Archetypes communicated through stories, because they are most easily understood
@@ -277,7 +277,7 @@ implicit generation of patterns through action/interaction, they are often
 ingrained more deeply in how we act. However, this has a dark side: because it
 is not well understood what these symbologies mean directly, it is difficult to
 evaluate why they produced action that worked, and why that action worked at
-all - meaning that it is difficult or impossible to know if it is possible, and
+all --- meaning that it is difficult or impossible to know if it is possible, and
 under what conditions it would be, that these actions could change based on
 different situations; without a framework to assess archetypes and archetype
 relations outside of those archetypes, there is no way to understand what they
@@ -291,7 +291,7 @@ our *current* envelope.
 
 **Nota bene:** when I say "archetype," it is as a synonym for pre-conscious or
 non-conscious concept, meaning that they may represent more than what is
-commonly thought of as an archetype - which is generally limited to characters
+commonly thought of as an archetype --- which is generally limited to characters
 or narrative situations. My definition of archetype can contain archetypal
 *rules* such as "thou shalt not kill" and archetypal *relations* such as respect
 for elders.
